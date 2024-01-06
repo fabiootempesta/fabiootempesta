@@ -19,14 +19,6 @@ Computer Engineer from IFMG - Campus Bambuí and software developer at <a href="
 
  <br>
 
- # <img align="center" alt="infoIcon" width="32" src="https://cdn3.iconfinder.com/data/icons/google-material-design-icons/48/ic_info_outline_48px-512.png" style="max-width:100%;"> Important Information
-
-I have a new profile on GitHub! Unfortunately, I lost access to my old profile. If you were following or interested in my previous work, please consider following this new profile.
-
-Old profile: [fabiotempesta](https://github.com/fabiotempesta)
-
-<br>
-
 # <img align="center" alt="skillsIcon" width="40" src="https://i.ibb.co/28YF0kg/143777657-03a3c09c-6ea6-4784-ad5e-4aa37f74fc09-removebg-preview.png" style="max-width:100%;"> Experiences and Status:
 
 <h3 align="center">
