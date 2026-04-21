@@ -35,10 +35,6 @@ pair_programmer: Claude + café
 - Lembrar que tem café no copo só depois dele esfriar
 - Fingir que entendi a reunião
 
-## Current boss fight
-
-Tô na **Mundo Leilão**, onde meu trabalho é fazer com que os pregões não caiam justo na hora do último lance. Antes disso passei pela **Topcon Suite**.
-
 ## Loot drops
 
 <p>
