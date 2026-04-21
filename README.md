@@ -1,37 +1,57 @@
-# <img align="center" alt="userIcon" width="32" src="https://user-images.githubusercontent.com/44007466/143777584-790487ee-c57d-4f37-850c-209b74507242.png" style="max-width:100%;"> About Me
-Computer Engineer from IFMG - Campus Bambuí and software developer at <a href="https://topconsuite.com/" target="_blank">Topcon Suite</a>.
+# Fábio Tempesta
 
-<br>
+> Engenheiro de computação treinado em Bambuí, MG.  
+> Bug-resistant, coffee-powered, deadline-fóbico.
 
-# <img align="center" alt="socialIcon" width="32" src="https://user-images.githubusercontent.com/44007466/143777618-893d27e6-2ba6-4a74-af06-a6dfa1bc0a9b.png" style="max-width:100%;"> Social Networks
+```yaml
+status:          employed (felizmente)
+location:        sofá do home office
+pronouns:        ele / o cara do TI
+wake_up_time:    depende do deploy
+favorite_hobby:  culpar o DNS
+pair_programmer: Claude + café
+```
 
-<h3 align="center">
-  <a href="https://www.linkedin.com/in/fabiotempesta/" target="_blank">
-    <img align="center" alt="linkedin" width="40" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" style="max-width:100%;">
-  </a>
-  <a href="https://www.instagram.com/fabiotempesta15/" target="_blank">
-    <img  align="center"  src="https://i.ibb.co/1qvWphM/instagram-color-icon-instagram-social-media-png-instagram-icon-11562851673w81euu4rop-removebg-previe.png" width='40' style="max-width:100%;"/>
-  </a>
-  <a href="https://api.whatsapp.com/send?phone=5535984030654&text=I%20found%20your%20contact%20on%20GitHub.%20I%20would%20like%20to%20speak%20with%20you!" target="_blank" >
-    <img  align="center" src="https://i.ibb.co/rMzZLvF/40-404856-transparent-whatsapp-icon-transparent-png-circle-logo-whatsapp-removebg-preview.png" width='40' style="max-width:100%;"/> 
-  </a>
- </h3>
+## Combat abilities
 
- <br>
+| Skill          | Level | Notas                                               |
+|----------------|-------|-----------------------------------------------------|
+| C# / .NET      | ★★★★☆ | Meu feijão com arroz                                |
+| TypeScript     | ★★★★☆ | Melhor que JS puro — ninguém muda minha opinião     |
+| Node.js        | ★★★★☆ | `npm install` de 200MB, é ciência                   |
+| React          | ★★★☆☆ | Consigo, mas o CSS ainda me humilha                 |
+| PostgreSQL     | ★★★☆☆ | Tio Postgres nunca me deixou na mão                 |
+| Docker         | ★★★☆☆ | Funciona na minha máquina™                          |
+| Python         | ★★★☆☆ | Pra quando preciso resolver rápido                  |
+| C++            | ★★☆☆☆ | Passei na faculdade, muito obrigado                 |
 
-# <img align="center" alt="skillsIcon" width="40" src="https://i.ibb.co/28YF0kg/143777657-03a3c09c-6ea6-4784-ad5e-4aa37f74fc09-removebg-preview.png" style="max-width:100%;"> Experiences and Status:
+<sub>*Níveis calibrados na era pré-vibe-coding. Hoje, na real, é tudo o que o autocompletar sugerir.*</sub>
 
-<h3 align="center">
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" alt="c#" width="40" height="40" style="max-width:100%;margin: 0 2px;"></img>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" alt="node" width="40" height="40" style="max-width:100%;margin: 0 2px;"/></img>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="max-width:100%;margin: 0 2px;"></img>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40" style="max-width:100%;margin: 0 2px;"></img>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" alt="postgresql" width="40" height="40" style="max-width:100%;margin: 0 2px;"/></img>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" alt="c++" width="40" height="40" style="max-width:100%;margin: 0 2px;"></img>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="max-width:100%;margin: 0 2px;"></img>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40" style="max-width:100%;margin: 0 2px;"></img>
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiootempesta&show_icons=true&theme=radical)
+## Passive skills
 
-</h3>
+- Explicar pra leigo por que *"só mudar uma coisinha"* demora 3 dias
+- Identificar bug pelo cheiro do log
+- Escrever commit à 2h da manhã (`fix`, `fix mesmo`, `fix de verdade agora`)
+- Lembrar que tem café no copo só depois dele esfriar
+- Fingir que entendi a reunião
+
+## Current boss fight
+
+Tô na **Mundo Leilão**, onde meu trabalho é fazer com que os pregões não caiam justo na hora do último lance. Antes disso passei pela **Topcon Suite**.
+
+## Loot drops
+
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=fabiootempesta&show_icons=true&hide_border=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiootempesta&layout=compact&hide_border=true&theme=dark&langs_count=8" />
+</p>
+
+## Talk to the player
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiotempesta/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ti@mundoleilao.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5535984030654)
+
+---
+
+<sub>README vibe-coded por um AI de estimação. Stack acima é decorativa — no dia a dia é tudo o que ele mandar.</sub>
